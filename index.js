@@ -1,4 +1,4 @@
-let abdulloh = ["abdulloh", 12, true, "sag'bon"];
+let abdulloh = (Adulloh, 12, true, sagbon);
 console.log(abdulloh);
 console.log(abdulloh.length);
 if (rost) {
